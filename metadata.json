@@ -1,0 +1,6 @@
+{
+  "name": "Aastic Saloon",
+  "description": "Aastic Saloon - Luxury Barber & Salon Booking Platform with cutting style demo, customer booking, barber approvals, and multi-tier management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
